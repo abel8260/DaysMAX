@@ -10,7 +10,7 @@ The `DaysMAXmin` module focuses on the core functionality of the project, provid
 
 ### DaysMAX Module
 
-The `DaysMAX` module offers a customizable interface that allows users to configure various parameters for more complex date calculations. It employs the **Strategy** design pattern to enable different calculation methods, providing flexibility for users who require specialized operations. This module also integrates user interface elements, enhancing the overall user experience.
+The `DaysMAX` module offers a customizable interface that allows users to configure various parameters for more complex date calculations. This module integrates user interface elements, enhancing the overall user experience.
 
 ## Usage
 
