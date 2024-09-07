@@ -2,6 +2,12 @@
 
 DaysMAX is a text-based data counter designed to calculate the number of days between specific dates. The project showcases an efficient use of modular programming and design patterns, making it a robust and scalable solution for date calculations.
 
+## Documentation:
+
+<b>Definition:</b> Documentation in software refers to written text or illustrations that accompany software products, explaining how the software works, how to use it, and its underlying concepts. Proper documentation improves software usability and maintainability. It also serves as a reference for future updates or troubleshooting.
+
+<b>Link:</b> https://github.com/abel8260/DaysMAX/wiki.
+
 ## Features
 
 ### DaysMAXmin Module
